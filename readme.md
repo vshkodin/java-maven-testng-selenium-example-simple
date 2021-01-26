@@ -1,5 +1,5 @@
 Java, Maven, TestNG, Selenium
-#Run
+### How to run
 ```
 $ mvn  test
 ```
