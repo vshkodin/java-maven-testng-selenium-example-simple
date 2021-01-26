@@ -1,0 +1,7 @@
+<suite name="AnyNameSuite" verbose="1">
+  <test name="AnyTestName">
+    <classes>
+      <class name="src.SimpleTest.SimpleTest" />
+    </classes>
+  </test>
+</suite>
