@@ -3,4 +3,4 @@ Java, Maven, TestNG, Selenium
 ```
 $ mvn  test
 ```
-Please give a "star" if it helped you.
+* Please give a "star" if it helped you.
