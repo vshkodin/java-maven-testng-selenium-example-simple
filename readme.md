@@ -1,4 +1,11 @@
-Java, Maven, TestNG, Selenium
+
+### Simple example of Testing Framework using Java, Maven, TestNG, Selenium
+
+#### Clone project:
+```
+git clone https://github.com/vsshk/java-maven-testng-selenium-example-simple.git
+cd java-maven-testng-selenium-example-simple
+```
 ### How to run
 ```
 $ mvn  test
