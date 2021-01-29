@@ -1,5 +1,5 @@
 
-### Simple example of Testing Framework using Java, Maven, TestNG, Selenium
+### Simple example of UI Testing Framework using Java, Maven, TestNg, Selenium.
 
 #### Clone project:
 ```
